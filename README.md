@@ -38,8 +38,7 @@ II. Tài khoản mặc định của admin: tên và pass đều là admin -> lo
 2. form bán vé	
 - chọn thời gian lịch chiếu
 - click vào listview -> xuất hiện ra form màn ảnh
-- chọn loại vé thì có thể giảm giá, sau khi chọn ghế thì có thể loại ghế, 
-		sau đó chọn tiếp và thao tác loại vé liên tục như v
+- chọn loại vé thì có thể giảm giá, sau khi chọn ghế thì có thể loại ghế, sau đó chọn tiếp và thao tác loại vé liên tục như v
 - chọn lại ghế thì hủy ko chọn nữa	
 - nếu là khách hàng thành viên thì cung cấp mã 
 - sau khi xác nhận thì sẽ hiển thị ra thông tin của khác hàng 
@@ -50,9 +49,9 @@ II. Tài khoản mặc định của admin: tên và pass đều là admin -> lo
 							các báo cáo thì xuất hiện để quản lý in ra
 				
 III. 11 bảng:
-	- Nhân Viên 
-	- Tài Khoản
-	- Khách hàng
+	- Nhân Viên
+    - Tài Khoản
+    - Khách hàng
 	- Vé
 	- Lịch chiếu
 	- Định dạng phim
