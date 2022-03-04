@@ -2,10 +2,10 @@
 C# - Lập trình winform
 
 # Tài khoản: 
-NguyenHongLiem pass admin
-VuThiHien pass admin
-TranHuynhNhu pass admin
-mọi NV đều có pass là 1
+- NguyenHongLiem pass admin
+- VuThiHien pass admin
+- TranHuynhNhu pass admin
+- Mọi NV đều có pass là 1
 
 # USECASE VÀ ACTIVITY DIAGRAM XEM Ở FILE: Hệ thống quản lý rạp chiếu phim.mdj
 
@@ -15,10 +15,10 @@ Quản lý rạp phim
 -> connect sql server database
 -> chạy script database
 
-Trong phần mềm
 
-I. bấm setting để connect vào server name (trên máy local), giữ nguyên database name -> bấm lưu và kết nối
+I. Trong phần mềm bấm setting để connect vào server name (trên máy local), giữ nguyên database name -> bấm lưu và kết nối
 -> kết nối thành công
+
 II. Tài khoản mặc định của admin: tên và pass đều là admin -> login
 
 1. form quản lý: các tab
@@ -49,37 +49,37 @@ II. Tài khoản mặc định của admin: tên và pass đều là admin -> lo
 				-> hiển thị ở phần quản lý -> mục doanh thu (theo tháng) -> hiển thị -> 
 							các báo cáo thì xuất hiện để quản lý in ra
 				
-11 bảng 
-	Nhân Viên 
-	Tài Khoản
-	Khách hàng
-	Vé
-	Lịch chiếu
-	Định dạng phim
-	Phim
-	Phòng chiếu
-	Loài màn hình
-	Phân loại phim
-	Thể loại
-18 Form admin: 
-	1 form điều hướng admin (Admin New Design)
-	8 form: 1. dock data dữ liệu (data UC: user control)
-			7. Loại màn hình, phòng chiếu, thể loại, phim, định dạng phim, lịch chiếu, vé (DataUserControl)
-	1 form thống kê báo cáo (ravenueUC)
-	1 form nhân viên	(staffUC)
-	1 form khách hàng	(customerUC)
-	1 form tài khoản	(accountUC)
-	1 form xuất báo cáo (Report)
-	4 Form chung: 
-		1 form đăng nhập (Login)
-		1 form kết nối dữ liệu database (Connect Data)
-		1 form dashboard để điều hướng (Dashboard)
-		1 form đổi mật khẩu (accountSetting)
-		(Và các form của nhân viên)
-3 Form nhân viên:	
-	Form bán vé (seller)
-	Form rạp phim (theatre)
-	Form nhập thông tin khách hàng thành viên (customer)
+III. 11 bảng 
+	- Nhân Viên 
+	- Tài Khoản
+	- Khách hàng
+	- Vé
+	- Lịch chiếu
+	- Định dạng phim
+	- Phim
+	- Phòng chiếu
+	- Loài màn hình
+	- Phân loại phim
+	- Thể loại
+IV. 18 Form admin: 
+	- 1 form điều hướng admin (Admin New Design)
+	- 8 form: + 1. dock data dữ liệu (data UC: user control)
+	 		  + 7. Loại màn hình, phòng chiếu, thể loại, phim, định dạng phim, lịch chiếu, vé (DataUserControl)
+	- 1 form thống kê báo cáo (ravenueUC)
+	- 1 form nhân viên	(staffUC)
+	- 1 form khách hàng	(customerUC)
+	- 1 form tài khoản	(accountUC)
+	- 1 form xuất báo cáo (Report)
+	- 4 Form chung: 
+		+ 1 form đăng nhập (Login)
+		+ 1 form kết nối dữ liệu database (Connect Data)
+		+ 1 form dashboard để điều hướng (Dashboard)
+		+ 1 form đổi mật khẩu (accountSetting)
+		+ (Và các form của nhân viên)
+V. 3 Form nhân viên:	
+	- Form bán vé (seller)
+	- Form rạp phim (theatre)
+	- Form nhập thông tin khách hàng thành viên (customer)
 	
 	
 	
