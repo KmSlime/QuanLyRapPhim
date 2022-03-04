@@ -1,0 +1,293 @@
+C:\Users\chinh\Downloads\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmAccountSettings.resources
+C:\Users\chinh\Downloads\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmAdminNewDesign.resources
+C:\Users\chinh\Downloads\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmAdminUserControls.AccountUC.resources
+C:\Users\chinh\Downloads\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmAdminUserControls.CustomerUC.resources
+C:\Users\chinh\Downloads\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmAdminUserControls.DataUC.resources
+C:\Users\chinh\Downloads\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmAdminUserControls.DataUserControl.CinemaUC.resources
+C:\Users\chinh\Downloads\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmAdminUserControls.DataUserControl.FormatMovieUC.resources
+C:\Users\chinh\Downloads\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmAdminUserControls.DataUserControl.GenreUC.resources
+C:\Users\chinh\Downloads\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmAdminUserControls.DataUserControl.MovieUC.resources
+C:\Users\chinh\Downloads\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmAdminUserControls.DataUserControl.ScreenTypeUC.resources
+C:\Users\chinh\Downloads\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmAdminUserControls.DataUserControl.ShowTimesUC.resources
+C:\Users\chinh\Downloads\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmAdminUserControls.DataUserControl.TicketsUC.resources
+C:\Users\chinh\Downloads\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmAdminUserControls.RevenueUC.resources
+C:\Users\chinh\Downloads\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmAdminUserControls.StaffUC.resources
+C:\Users\chinh\Downloads\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmConnectData.resources
+C:\Users\chinh\Downloads\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmLogin.resources
+C:\Users\chinh\Downloads\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmDashBoard.resources
+C:\Users\chinh\Downloads\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmReport.resources
+C:\Users\chinh\Downloads\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmSeller.resources
+C:\Users\chinh\Downloads\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmTheatre.resources
+C:\Users\chinh\Downloads\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmCustomer.resources
+C:\Users\chinh\Downloads\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\chinh\Downloads\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\chinh\Downloads\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\GUI.exe.config
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\GUI.exe
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\GUI.pdb
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\Microsoft.ReportViewer.Common.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\Microsoft.ReportViewer.Design.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\EnvDTE.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\stdole.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\Microsoft.MSXML.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmAccountSettings.resources
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmAdminNewDesign.resources
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmAdminUserControls.AccountUC.resources
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmAdminUserControls.CustomerUC.resources
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmAdminUserControls.DataUC.resources
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmAdminUserControls.DataUserControl.CinemaUC.resources
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmAdminUserControls.DataUserControl.FormatMovieUC.resources
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmAdminUserControls.DataUserControl.GenreUC.resources
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmAdminUserControls.DataUserControl.MovieUC.resources
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmAdminUserControls.DataUserControl.ScreenTypeUC.resources
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmAdminUserControls.DataUserControl.ShowTimesUC.resources
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmAdminUserControls.DataUserControl.TicketsUC.resources
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmAdminUserControls.RevenueUC.resources
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmAdminUserControls.StaffUC.resources
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmConnectData.resources
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmLogin.resources
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmDashBoard.resources
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmReport.resources
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmSeller.resources
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmTheatre.resources
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.frmCustomer.resources
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.exe
+D:\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\Quan-li-ban-ve-rap-chieu-phim---CNPM-master\GUI\obj\Debug\GUI.pdb
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\GUI.exe.config
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\GUI.exe
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\GUI.pdb
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.ReportViewer.Common.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.ReportViewer.Design.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\EnvDTE.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\stdole.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.MSXML.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmAccountSettings.resources
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmAdminNewDesign.resources
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmAdminUserControls.AccountUC.resources
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmAdminUserControls.CustomerUC.resources
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmAdminUserControls.DataUC.resources
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmAdminUserControls.DataUserControl.CinemaUC.resources
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmAdminUserControls.DataUserControl.FormatMovieUC.resources
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmAdminUserControls.DataUserControl.GenreUC.resources
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmAdminUserControls.DataUserControl.MovieUC.resources
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmAdminUserControls.DataUserControl.ScreenTypeUC.resources
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmAdminUserControls.DataUserControl.ShowTimesUC.resources
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmAdminUserControls.DataUserControl.TicketsUC.resources
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmAdminUserControls.RevenueUC.resources
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmAdminUserControls.StaffUC.resources
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmConnectData.resources
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmLogin.resources
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmDashBoard.resources
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmReport.resources
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmSeller.resources
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmTheatre.resources
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmCustomer.resources
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.Properties.Resources.resources
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.CopyComplete
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.exe
+H:\GAMES\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.pdb
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\GUI.exe.config
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\GUI.exe
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\GUI.pdb
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\EnvDTE.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\stdole.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\Microsoft.MSXML.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmAccountSettings.resources
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmAdminNewDesign.resources
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmAdminUserControls.AccountUC.resources
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmAdminUserControls.CustomerUC.resources
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmAdminUserControls.DataUC.resources
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmAdminUserControls.DataUserControl.CinemaUC.resources
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmAdminUserControls.DataUserControl.FormatMovieUC.resources
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmAdminUserControls.DataUserControl.GenreUC.resources
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmAdminUserControls.DataUserControl.MovieUC.resources
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmAdminUserControls.DataUserControl.ScreenTypeUC.resources
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmAdminUserControls.DataUserControl.ShowTimesUC.resources
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmAdminUserControls.DataUserControl.TicketsUC.resources
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmAdminUserControls.RevenueUC.resources
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmAdminUserControls.StaffUC.resources
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmConnectData.resources
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmLogin.resources
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmDashBoard.resources
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmReport.resources
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmSeller.resources
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmTheatre.resources
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.frmCustomer.resources
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.exe
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.pdb
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\RdlCompile.cache
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\RdlCompile.compiled
+D:\Đồ Án\lập trình trên môi trường window\QLRP\QuanLyRapChieuPhim\QuanLyRapChieuPhim\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
