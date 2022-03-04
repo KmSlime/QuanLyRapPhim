@@ -49,7 +49,7 @@ II. Tài khoản mặc định của admin: tên và pass đều là admin -> lo
 				-> hiển thị ở phần quản lý -> mục doanh thu (theo tháng) -> hiển thị -> 
 							các báo cáo thì xuất hiện để quản lý in ra
 				
-III. 11 bảng 
+III. 11 bảng:
 	- Nhân Viên 
 	- Tài Khoản
 	- Khách hàng
@@ -61,6 +61,7 @@ III. 11 bảng
 	- Loài màn hình
 	- Phân loại phim
 	- Thể loại
+
 IV. 18 Form admin: 
 	- 1 form điều hướng admin (Admin New Design)
 	- 8 form: + 1. dock data dữ liệu (data UC: user control)
@@ -76,6 +77,7 @@ IV. 18 Form admin:
 		+ 1 form dashboard để điều hướng (Dashboard)
 		+ 1 form đổi mật khẩu (accountSetting)
 		+ (Và các form của nhân viên)
+
 V. 3 Form nhân viên:	
 	- Form bán vé (seller)
 	- Form rạp phim (theatre)
